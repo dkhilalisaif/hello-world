@@ -1,22 +1,22 @@
-# Object files
+# Object files.
 *.o
 *.ko
 *.obj
 *.elf
 
-# Libraries
+# Libraries.
 *.lib
 *.a
 *.la
 *.lo
 
-# Shared objects (inc. Windows DLLs)
+# Shared objects (inc. Windows DLLs).
 *.dll
 *.so
 *.so.*
 *.dylib
 
-# Executables
+# Executables.
 *.exe
 *.out
 *.app
@@ -24,22 +24,22 @@
 *.x86_64
 *.hex
 
-# Misc
+# Misc.
 *.map
 *.m
 *.png
 
-# Eclipse CDT project files
+# Eclipse CDT project files.
 .cproject
 .project
 .settings/
 
-# Vagrant directory
+# Vagrant directory.
 .vagrant/
 
-# Include makefiles
+# Include makefiles.
 !Makefile
 *~
 
-# Libraries
+# Libraries.
 /lib
